@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+target/
+captcha.jpeg
+*.iml
+output.html
+src/main/java/ir/moke/captcha/LoginMainClass.java
+src/main/java/ir/moke/captcha/SSLTrustManager.java
